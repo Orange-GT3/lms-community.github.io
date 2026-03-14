@@ -506,7 +506,7 @@ title: Available Plugins
 
     ---
 
-    Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Use the data with other plugins to create/play smart playlists (dynamic playlists), create virtual libraries or skip tracks.
+    Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. If you skip the song before, it counts as skipped, not played. Optionally records a detailed play history with timestamps, player and rating at the time of play, with display for individual tracks, albums, artists or all tracks. Use the data with other plugins to create/play smart playlists (dynamic playlists), create virtual libraries or skip tracks.
 
     AF    - [:octicons-globe-24: Details](https://github.com/AF-1)    - :octicons-download-24: 253
 
